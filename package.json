@@ -1,0 +1,13 @@
+{
+  "name": "cypress-docker-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^4.5.0"
+  }
+}
